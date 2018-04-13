@@ -45,6 +45,6 @@ void quickSort(int* a,int l,int r){
 	if(l<j)
 		quickSort(a,l,j);
 	if(i<r)
-		quickSort(a,i,r);
+		quickSort(a,i,r	);
 	
 }
